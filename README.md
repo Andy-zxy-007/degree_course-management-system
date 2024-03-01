@@ -3,7 +3,6 @@ This project is only for the use of internal professors and development and main
 Users can add, delete, and edit content and relationships for available degrees and related programs.
 Learning plans can be made for easy sharing or future reference.
 
-
 The development framework used in this degree course management system:
 Front-end: VUE+ElementUI, front-end and back-end data exchange based on JSON format
 Back-end: Java, core framework:spring boot, Data persistence layer framework JPA.
