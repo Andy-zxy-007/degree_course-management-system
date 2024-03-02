@@ -56,7 +56,7 @@ Attention please: The above environment must be successfully installed and confi
 Windows Decompressing back-end-spring-boot-demo-version-01.zip
 Use IDEA to Open spring-boot-demo
 find a file application-dev.properties (Note:Modify the configuration environment based on your system configuration environment)
-#  db
+#db
 spring.datasource.url=jdbc:mysql://192.168.56.3:5743/course_system?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
 spring.datasource.username=root
 spring.datasource.password=*******
