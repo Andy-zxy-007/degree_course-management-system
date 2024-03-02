@@ -29,6 +29,13 @@ mysql-5.7.43.tar.gz (source code)
 7.15.1
 [root@kill-mysql-2 ~]# node --version
 v16.3.0
+
+[root@kill-mysql-2 ~]# gcc --version
+gcc (GCC) 11.2.0
+Copyright (C) 2021 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
 [root@kill-mysql-2 ~]# java -version
 openjdk version "1.8.0_392"
 OpenJDK Runtime Environment (build 1.8.0_392-b08)
@@ -42,9 +49,12 @@ Grant your own mysql user,password and privileges.
 
 load data to mysql: 
 [mysql@kill-mysql-2 ~]$ superDBA < /home/mysql/course_system_20240302.sql  (Must succeed without any error!!!)
+(Note: superDBA means I have build soft link to mysql profile. You need to choose your shell to load data.) 
 
-Attention please: The above environment must be successfully installed and configured without any error.
-------------------------------------------------------------------------------------------------------------------------------------
+Attention please: The above environment must be successfully installed and configured without any error.Otherwise your program won't start properly.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+How to run program !!!! 
+Please Follow this instructions.
 ----Code test program run startup:
 1.Front-end web startup:
 [root@kill-mysql-2 ~]# unzip course-web-version-01.zip
