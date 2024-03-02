@@ -94,7 +94,7 @@ Please use nginx to deploy the web front-end project. ---Just my suggestion---
 1.LINUX Install nginx and deploy the web front-end project  (Sucessfully!!!)
 2.LINUX Backend JAVA startup:
 eg:
-[root@kill-mysql-2 ~]# nohup java -jar xxx.jar >> ./log/`date +%Y-%m-%d`.out 2>&1 &
+[root@kill-mysql-2 ~]# nohup java -jar spring-boot-demo.jar >> ./log/`date +%Y-%m-%d`.out 2>&1 &
 
 Accessed via web browser:http://192.168.56.3:7787 
 Access normal and display data via web browser. The program starts sucessfully.
