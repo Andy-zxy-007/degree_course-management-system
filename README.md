@@ -90,7 +90,7 @@ password:111111
 
 If the project goes online to the production server.
 Linux-CentOS 7.6 
-Please use nginx to deploy the web front-end project. ---Just my suggestion
+Please use nginx to deploy the web front-end project. ---Just my suggestion---
 1.LINUX Install nginx and deploy the web front-end project  (Sucessfully!!!)
 2.LINUX Backend JAVA startup:
 eg:
