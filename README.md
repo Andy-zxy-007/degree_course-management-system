@@ -51,7 +51,7 @@ load data to mysql:
 [mysql@kill-mysql-2 ~]$ superDBA < /home/mysql/course_system_20240302.sql  (Must succeed without any error!!!)
 (Note: superDBA means I have build soft link to mysql profile. You need to choose your shell to load data.) 
 
-Attention please: The above environment must be successfully installed and configured without any error.Otherwise your program won't start properly.
+Attention please: The above environment must be successfully installed and configured without any error.Otherwise this program won't start properly.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 How to run program !!!! 
 Please Follow this instructions.
