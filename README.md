@@ -55,7 +55,7 @@ Attention please: The above environment must be successfully installed and confi
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 How to run program !!!! 
 Please Follow this instructions.
-----Code test program run startup:
+1.----Code test program run startup:
 1.Front-end web startup:
 [root@kill-mysql-2 ~]# unzip course-web-version-01.zip
 [root@kill-mysql-2 ~]# cd course-web-version-01
@@ -86,9 +86,9 @@ Or
 login:Claudia
 password:111111
 
---------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
-If the project goes online to the production server.
+2.---If the project goes online to the production server.
 Linux-CentOS 7.6 
 Please use nginx to deploy the web front-end project. ---Just my suggestion---
 1.LINUX Install nginx and deploy the web front-end project  (Sucessfully!!!)
@@ -99,8 +99,13 @@ eg:
 Accessed via web browser:http://192.168.56.3:7787 
 Access normal and display data via web browser. The program starts sucessfully.
 
+3.---
+You can deploy this project on Docker startup or Google-Kubernetes（K8s）startup.
+This is now enterprise-class rapid deployment and scaling and high availability and fault tolerance.
+I will deploy this project on Docker startup or Google-Kubernetes（K8s）startup.
+However, I won't go into details here. It is so long. It depends on your learning ability and interest.
 
-
+Thanks for every one.
 
 
 
