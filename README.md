@@ -10,7 +10,9 @@ Back-end: Java, core framework:spring boot, Data persistence layer framework JPA
 The data on the university of Adelaide official website are true and valid.
 Data source is from https://calendar.adelaide.edu.au/
 
-My system environment is Linux-Centos7.6（64bit）---VirtualBox Self-built Linux system
+My system environment is Linux-Centos7.6（64bit）---VirtualBox Self-built Linux system，
+I have been working as a DBA in China. I am familiar with Linux and databases.
+The Operating system environment is installed and configured according to your own preferences.
 
 Operating system:	Linux-Centos7.6（64bit）
 Server host name:	kill-mysql-2
