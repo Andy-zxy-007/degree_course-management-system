@@ -10,6 +10,10 @@ Back-end: Java, core framework:spring boot, Data persistence layer framework JPA
 The data on the university of Adelaide official website are true and valid.
 Data source is from https://calendar.adelaide.edu.au/
 
+This development Project is for Professor Claudia's(Associate Professor, School of Computer and Mathematical Sciences, The University of Adelaide
+
+) use only.
+
 My system environment is Linux-Centos7.6（64bit）---VirtualBox Self-built Linux system，
 I have been working as a DBA in China. I am familiar with Linux and databases.
 The Operating system environment is installed and configured according to your own preferences.
